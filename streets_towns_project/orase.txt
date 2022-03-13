@@ -1,0 +1,1 @@
+{"1": {"py/object": "Domain.oras.Oras", "_Entitate__id_entitate": "1", "_Oras__nume": "1", "_Oras__populatie": 1}, "2": {"py/object": "Domain.oras.Oras", "_Entitate__id_entitate": "2", "_Oras__nume": "1", "_Oras__populatie": 1}}
