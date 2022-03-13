@@ -1,0 +1,1 @@
+{"2": {"py/object": "Domain.elev.Elev", "_Entitate__id_entitate": "2", "_Elev__nume": "A", "_Elev__varsta": 10}, "3": {"py/object": "Domain.elev.Elev", "_Entitate__id_entitate": "3", "_Elev__nume": "A", "_Elev__varsta": 13}}
